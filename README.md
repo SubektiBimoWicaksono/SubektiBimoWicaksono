@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subektibimowicaksono&label=Profile%20views&color=0e75b6&style=flat" alt="subektibimowicaksono" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://github.com/SubektiBimoWicaksono](https://github.com/SubektiBimoWicaksono)
+- 👨‍💻 You can also check out my portfolio at [https://www.linkedin.com/in/subektibimo/](https://www.linkedin.com/in/subektibimo/)
 
 - 📫 How to reach me [bimoputraw27@gmail.com](bimoputraw27@gmail.com)
 
